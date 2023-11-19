@@ -1,0 +1,5 @@
+_core:
+  default_config_hash: hm1722RlH6OOXbS5FDs0Pf9sk5u-IvpCM9v1R3SFfhU
+interface:
+  default: php_mail
+mailer_dsn: 'sendmail://default'
