@@ -1,13 +1,13 @@
-uuid: e2f1d183-3d75-47fc-a82a-9f3b19bf9135
+uuid: a3f6795c-4bfe-443f-9a0d-695405ea6129
 langcode: en
 status: true
 dependencies:
   theme:
-    - olivero
+    - playground
 _core:
   default_config_hash: ydSxdq7R66I8UMC460rOzlfzvlUL4VRbdwc6z9DWaUI
-id: olivero_secondary_local_tasks
-theme: olivero
+id: playground_secondary_local_tasks
+theme: playground
 region: highlighted
 weight: -2
 provider: null

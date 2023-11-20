@@ -1,15 +1,15 @@
-uuid: efffb653-de9c-401b-91e1-e00c560b0c2a
+uuid: 78a1b8db-7983-40cd-a872-542b1e1d1fe4
 langcode: en
 status: true
 dependencies:
   module:
     - system
   theme:
-    - olivero
+    - playground
 _core:
   default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
-id: olivero_breadcrumbs
-theme: olivero
+id: playground_breadcrumbs
+theme: playground
 region: breadcrumb
 weight: 0
 provider: null

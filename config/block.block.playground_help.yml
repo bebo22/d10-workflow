@@ -1,16 +1,16 @@
-uuid: 15836feb-ef13-4b47-8da1-75d474dc0692
+uuid: b7b472f7-f222-476a-adbf-0b189a1c7bae
 langcode: en
 status: true
 dependencies:
   module:
     - help
   theme:
-    - olivero
+    - playground
 _core:
   default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
-id: olivero_help
-theme: olivero
-region: content_above
+id: playground_help
+theme: playground
+region: sidebar_first
 weight: 0
 provider: null
 plugin: help_block

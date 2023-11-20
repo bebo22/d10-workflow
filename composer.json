@@ -16,11 +16,16 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/admin_toolbar": "^3.4",
+        "drupal/block_field": "^1.0@RC",
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
         "drupal/gin": "^3.0@RC",
-        "drush/drush": "^12.4"
+        "drupal/paragraphs": "^1.16",
+        "drush/drush": "^12.4",
+        "symfony/stimulus-bundle": "^2.13",
+        "symfony/ux-react": "^2.13"
     },
     "conflict": {
         "drupal/drupal": "*"

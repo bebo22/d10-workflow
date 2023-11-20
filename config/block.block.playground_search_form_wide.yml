@@ -1,15 +1,15 @@
-uuid: bb0885be-10b8-4fa4-ba9e-5c2f2aaceb8c
+uuid: cb86b351-72b3-48ea-a806-dfab25043c51
 langcode: en
 status: true
 dependencies:
   module:
     - search
   theme:
-    - olivero
+    - playground
 _core:
   default_config_hash: imMyHD6LYci0gtXq56qr9ZKGHzbEG9uFydrN5EhKtSU
-id: olivero_search_form_wide
-theme: olivero
+id: playground_search_form_wide
+theme: playground
 region: secondary_menu
 weight: -5
 provider: null

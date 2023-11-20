@@ -1,0 +1,5 @@
+name: Playground
+type: theme
+base theme: false
+description: 'Custom theme for the Playground site.'
+core_version_requirement: ^9 || ^10

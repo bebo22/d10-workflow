@@ -1,14 +1,14 @@
-uuid: a457a794-eea9-4e58-817a-423d738dce8f
+uuid: ed32e9db-110c-457b-899f-f05a375f76a9
 langcode: en
 status: true
 dependencies:
   theme:
-    - olivero
+    - playground
 _core:
   default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
-id: olivero_page_title
-theme: olivero
-region: content_above
+id: playground_page_title
+theme: playground
+region: sidebar_first
 weight: -5
 provider: null
 plugin: page_title_block
